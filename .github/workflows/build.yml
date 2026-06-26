@@ -1,0 +1,26 @@
+name: Build Mod
+
+on:
+  push:
+    branches: [ main, master ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Установить Java 17
+        uses: actions/setup-java@v4
+        with:
+          java-version: '17'
+          distribution: 'temurin'
+
+      - name: Собрать мод
+        run: chmod +x gradlew && ./gradlew build
+
+      - name: Скачать JAR
+        uses: actions/upload-artifact@v4
+        with:
+          name: enhanced-villages-mod
+          path: build/libs/*.jar
