@@ -17,7 +17,7 @@ jobs:
           distribution: 'temurin'
 
       - name: Собрать мод
-        run: chmod +x gradlew && ./gradlew build
+        run: gradle build
 
       - name: Скачать JAR
         uses: actions/upload-artifact@v4
