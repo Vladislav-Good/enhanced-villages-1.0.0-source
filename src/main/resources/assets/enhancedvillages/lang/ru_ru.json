@@ -1,0 +1,31 @@
+{
+  "block.enhancedvillages.market_stall": "Рыночный прилавок",
+  "block.enhancedvillages.quest_board": "Доска заданий",
+  "block.enhancedvillages.caravan_flag": "Знак каравана",
+  "block.enhancedvillages.blacksmith_anvil": "Кузнечная наковальня",
+  "block.enhancedvillages.alchemist_cauldron": "Алхимический котёл",
+  "block.enhancedvillages.merchant_chest": "Сундук торговца",
+
+  "block.enhancedvillages.market_stall.info": "§e[Рынок] §fЗдесь жители торгуют своими товарами.",
+  "block.enhancedvillages.market_stall.empty": "§7Возьмите товар в руку, чтобы продать его.",
+
+  "item.enhancedvillages.trade_contract": "Торговый контракт",
+  "item.enhancedvillages.village_coin": "Монета деревни",
+  "item.enhancedvillages.caravan_map": "Карта каравана",
+  "item.enhancedvillages.guard_medallion": "Медальон стражника",
+  "item.enhancedvillages.quest_scroll": "Свиток задания",
+
+  "entity.enhancedvillages.caravan": "Торговец каравана",
+  "entity.enhancedvillages.village_guard": "Стражник деревни",
+  "entity.enhancedvillages.quest_villager": "Житель с заданием",
+
+  "entity.minecraft.villager.enhancedvillages.alchemist": "Алхимик",
+  "entity.minecraft.villager.enhancedvillages.merchant": "Торговец",
+  "entity.minecraft.villager.enhancedvillages.master_blacksmith": "Мастер-кузнец",
+  "entity.minecraft.villager.enhancedvillages.caravan_guide": "Проводник каравана",
+  "entity.minecraft.villager.enhancedvillages.quest_master": "Смотритель заданий",
+  "entity.minecraft.villager.enhancedvillages.innkeeper": "Таверщик",
+
+  "enhancedvillages.quest.reward": "§aЗадание выполнено! Получены: §6монеты деревни §aи опыт.",
+  "enhancedvillages.caravan.arriving": "§6[Карavan] §eТорговый кaраван прибывает в деревню!"
+}

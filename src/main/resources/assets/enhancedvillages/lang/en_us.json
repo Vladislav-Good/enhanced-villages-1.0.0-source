@@ -1,0 +1,25 @@
+{
+  "block.enhancedvillages.market_stall": "Market Stall",
+  "block.enhancedvillages.quest_board": "Quest Board",
+  "block.enhancedvillages.caravan_flag": "Caravan Flag",
+  "block.enhancedvillages.blacksmith_anvil": "Blacksmith Anvil",
+  "block.enhancedvillages.alchemist_cauldron": "Alchemist Cauldron",
+  "block.enhancedvillages.merchant_chest": "Merchant Chest",
+
+  "item.enhancedvillages.trade_contract": "Trade Contract",
+  "item.enhancedvillages.village_coin": "Village Coin",
+  "item.enhancedvillages.caravan_map": "Caravan Map",
+  "item.enhancedvillages.guard_medallion": "Guard Medallion",
+  "item.enhancedvillages.quest_scroll": "Quest Scroll",
+
+  "entity.enhancedvillages.caravan": "Caravan Trader",
+  "entity.enhancedvillages.village_guard": "Village Guard",
+  "entity.enhancedvillages.quest_villager": "Quest Villager",
+
+  "entity.minecraft.villager.enhancedvillages.alchemist": "Alchemist",
+  "entity.minecraft.villager.enhancedvillages.merchant": "Merchant",
+  "entity.minecraft.villager.enhancedvillages.master_blacksmith": "Master Blacksmith",
+  "entity.minecraft.villager.enhancedvillages.caravan_guide": "Caravan Guide",
+  "entity.minecraft.villager.enhancedvillages.quest_master": "Quest Master",
+  "entity.minecraft.villager.enhancedvillages.innkeeper": "Innkeeper"
+}

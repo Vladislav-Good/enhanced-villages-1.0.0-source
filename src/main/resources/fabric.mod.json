@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "enhancedvillages",
+  "version": "1.0.0",
+  "name": "Enhanced Villages",
+  "description": "Улучшенные деревни: новые профессии, дома, рынки, караваны и жители с заданиями!",
+  "authors": ["EnhancedVillagesMod"],
+  "contact": {
+    "homepage": "https://github.com/enhancedvillages/mod"
+  },
+  "license": "MIT",
+  "icon": "assets/enhancedvillages/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.enhancedvillages.EnhancedVillages"]
+  },
+  "mixins": [
+    "enhancedvillages.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "fabric-api": "*",
+    "minecraft": "~1.20.1",
+    "java": ">=17"
+  }
+}
